@@ -55,10 +55,5 @@ class WC_Pi_Payment_Gateway extends WC_Payment_Gateway {
             'redirect' => $this->get_return_url($order)
         );
     }
-
-    public function payment_fields() {
-        // Display the payment form
-        include 'templates/payment-form.php';
-    }
 }
 ?>

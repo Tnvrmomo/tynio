@@ -31,3 +31,4 @@ class Pi_Payment_Secure {
         return base64_decode($data);
     }
 }
+?>
