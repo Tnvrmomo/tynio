@@ -1,0 +1,59 @@
+msgid "Pi Network Payment"
+msgstr ""
+
+msgid "Enable Pi Network Payment"
+msgstr ""
+
+msgid "Pi Network Payment settings"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "Enter your Pi Network API Key"
+msgstr ""
+
+msgid "Transaction ID"
+msgstr ""
+
+msgid "Payment successful"
+msgstr ""
+
+msgid "Payment failed"
+msgstr ""
+
+msgid "Please try again"
+msgstr ""
+
+msgid "Processing payment..."
+msgstr ""
+
+msgid "Thank you for your payment"
+msgstr ""
+
+msgid "Your payment is being processed"
+msgstr ""
+
+msgid "Invalid payment data"
+msgstr ""
+
+msgid "Secure payment processing"
+msgstr ""
+
+msgid "Payment method"
+msgstr ""
+
+msgid "Select Pi Network Payment"
+msgstr ""
+
+msgid "You will be redirected to complete your payment"
+msgstr ""
+
+msgid "Payment completed"
+msgstr ""
+
+msgid "Error processing payment"
+msgstr ""
+
+msgid "Please check your payment details"
+msgstr ""
